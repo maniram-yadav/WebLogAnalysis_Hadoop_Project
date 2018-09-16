@@ -17,23 +17,23 @@ Use the weblog file provided with the input directory.
 
 Input dataset is a Web Server log which has the following details:
 
-`IP Address,
+`IP Address,`
 
-Timestamp,
+`Timestamp,`
 
-Request Type,
+`Request Type,`
 
-Resource Requested,
+`Resource Requested,`
 
-Request Status,
+`Request Status,`
 
-Size of output object in bytes`
+`Size of output object in bytes`
 
 
 
 **Sample Record in Log file:**
 
-10.211.145.145 - - [15/Apr/2008:13:40:25 -0800] "GET /assets/js/listprod.js HTTP/1.1" 200 12460
+**10.211.145.145 - - [15/Apr/2008:13:40:25 -0800] "GET /assets/js/listprod.js HTTP/1.1" 200 12460**
 
 10.211.145.145   –   IP Address of Client
  
