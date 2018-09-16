@@ -74,3 +74,6 @@ c. Create an external Hive table to read the JSON file and query the data from H
 a. JSON output files from both the requirements
 
 b. Output of Hive Select Query (select * from <tablename>)  with Column headings
+ 
+ 
+ # :point_right: [Problem Solutions](https://github.com/maniram-yadav/WebLogAnalysis_Hadoop_Project/tree/master/src/org/weblog)
